@@ -8,7 +8,7 @@ width:100%;
 height:300px;
 background-color:black;
 }
-div{
+.div-Model{
   border: 5px;
   border-style: Solid;
   border-color: yellow;
