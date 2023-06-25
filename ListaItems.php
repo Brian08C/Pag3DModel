@@ -1,1 +1,2 @@
-cube,esfera,capsula
+cube,esfera,
+capsula
