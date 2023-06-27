@@ -1,1 +1,1 @@
-cilindro,cubo1,esfera1
+cilindro,cubo1,esfera1,cultivator,intsolar,leafoil,screwconveyor
